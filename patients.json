@@ -1,0 +1,94 @@
+{
+    "patients": [
+        {
+            "id": 1,
+            "name": "Rahul Sharma",
+            "age": 28,
+            "gender": "Male",
+            "weight_kg": 72,
+            "height_cm": 175,
+            "bmi": 23.5
+        },
+        {
+            "id": 2,
+            "name": "Anita Verma",
+            "age": 34,
+            "gender": "Female",
+            "weight_kg": 60,
+            "height_cm": 162,
+            "bmi": 22.9
+        },
+        {
+            "id": 3,
+            "name": "Amit Singh",
+            "age": 45,
+            "gender": "Male",
+            "weight_kg": 85,
+            "height_cm": 170,
+            "bmi": 29.4
+        },
+        {
+            "id": 4,
+            "name": "Neha Gupta",
+            "age": 26,
+            "gender": "Female",
+            "weight_kg": 55,
+            "height_cm": 160,
+            "bmi": 21.5
+        },
+        {
+            "id": 5,
+            "name": "Rohit Mehta",
+            "age": 39,
+            "gender": "Male",
+            "weight_kg": 90,
+            "height_cm": 178,
+            "bmi": 28.4
+        },
+        {
+            "id": 6,
+            "name": "Pooja Patel",
+            "age": 31,
+            "gender": "Female",
+            "weight_kg": 65,
+            "height_cm": 165,
+            "bmi": 23.9
+        },
+        {
+            "id": 7,
+            "name": "Sandeep Kumar",
+            "age": 52,
+            "gender": "Male",
+            "weight_kg": 78,
+            "height_cm": 168,
+            "bmi": 27.6
+        },
+        {
+            "id": 8,
+            "name": "Kavita Rao",
+            "age": 29,
+            "gender": "Female",
+            "weight_kg": 58,
+            "height_cm": 158,
+            "bmi": 23.2
+        },
+        {
+            "id": 9,
+            "name": "Arjun Malhotra",
+            "age": 41,
+            "gender": "Male",
+            "weight_kg": 95,
+            "height_cm": 180,
+            "bmi": 29.3
+        },
+        {
+            "id": 10,
+            "name": "Sneha Iyer",
+            "age": 36,
+            "gender": "Female",
+            "weight_kg": 62,
+            "height_cm": 164,
+            "bmi": 23.0
+        }
+    ]
+}
